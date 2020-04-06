@@ -4,4 +4,4 @@
 
  Primeiro repositório da vida!
 
-Essa linha eu adcionei diretamente no site
+Essa linha eu adcionei diretamente no site!
